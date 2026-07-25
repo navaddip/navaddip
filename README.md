@@ -49,7 +49,7 @@ Building intelligent systems that solve real-world problems 🚀
 
 🤖 Passionate about Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision and Backend Development.
 
-## 🚀 Current Focus
+
 
 ### 🔨 Currently Building
 
@@ -67,6 +67,7 @@ Building intelligent systems that solve real-world problems 🚀
 
 - ✍ **Grammar Error Detection** – Context-Free Grammar (CFG) and Pushdown Automata (PDA) based grammar correction system.
 
+## 🚀 Current Focus
 🌱 **Currently Learning**
 
 - Large Language Models (LLMs)
