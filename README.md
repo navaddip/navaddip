@@ -45,29 +45,24 @@ Become an AI Engineer building AI products used by millions.
 
 # 💻 Tech Stack
 
-### Languages
+<p align="center">
 
-Python • Java • C • C++ • SQL
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,html,css,react,nodejs,flask,fastapi,mysql,mongodb,git,github,docker,aws,tensorflow,pytorch,opencv,linux,vscode"/>
 
-### AI & ML
+</p>
 
-TensorFlow • PyTorch • Scikit-Learn • OpenCV
+# 📊 GitHub Stats
 
-### Backend
+![](https://github-readme-stats.vercel.app/api?username=navaddip&show_icons=true&theme=tokyonight)
 
-Flask • FastAPI
+![](https://github-readme-streak-stats.herokuapp.com/?user=navaddip&theme=tokyonight)
 
-### Database
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=navaddip&layout=compact&theme=tokyonight)
 
-MySQL • MongoDB
 
-### Cloud
+![](https://komarev.com/ghpvc/?username=navaddip&color=blue)
 
-AWS • Docker
-
-### Tools
-
-Git • GitHub • VS Code • Linux
+> "Building AI that makes a difference."
 
 ---
 
