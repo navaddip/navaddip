@@ -202,6 +202,13 @@ Become an AI Engineer building intelligent products that solve real-world proble
 </p>
 
 ---
+# 📅 GitHub Contribution Calendar
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=navaddip&theme=tokyo-night&hide_border=true"/>
+
+</p>
 
 # 🚀 Featured Projects
 
