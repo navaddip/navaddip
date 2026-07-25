@@ -1,9 +1,9 @@
-<!-- =============================== -->
-<!--          PROFILE BANNER         -->
-<!-- =============================== -->
+<!-- ========================================================= -->
+<!--                       PROFILE BANNER                      -->
+<!-- ========================================================= -->
 
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_LINK_HERE" width="100%">
+  <img src="YOUR_BANNER_IMAGE_LINK_HERE" alt="Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Navaddip Chowdary</h1>
@@ -30,40 +30,63 @@ Building intelligent systems that solve real-world problems 🚀
 <img src="https://img.shields.io/github/followers/navaddip?style=for-the-badge"/>
 </a>
 
+<img src="https://komarev.com/ghpvc/?username=navaddip&style=for-the-badge&color=blue"/>
+
 </p>
 
 ---
 
 <p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=Artificial+Intelligence;Machine+Learning;Computer+Vision;Generative+AI;Backend+Developer;Open+Source+Learner"/>
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Artificial+Intelligence;Machine+Learning;Deep+Learning;Computer+Vision;Generative+AI;Backend+Development;Open+Source+Learner"/>
 </p>
 
 ---
 
-# 🚀 About Me
+# 👨‍💻 About Me
 
-🎓 Final Year B.Tech Computer Science (Artificial Intelligence)
+🎓 B.Tech Computer Science & Engineering (Artificial Intelligence)  
+🏛️ Amrita Vishwa Vidyapeetham (Class of 2027)
 
-🤖 Passionate about AI, Machine Learning, Deep Learning, NLP, Computer Vision and Backend Development.
+🤖 Passionate about Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision and Backend Development.
 
-🌱 Currently Learning
+🚀 **Currently Building**
+
+- 🏥 MED-AGENT – AI Powered Medical Assistant
+- 🛡 Insurance Fraud Detection using Machine Learning
+- 🌾 Smart IoT Crop Yield Prediction
+- 🧠 Biomedical Image Analytics
+- ✍ Grammar Error Detection using CFG & PDA
+
+🌱 **Currently Learning**
 
 - Large Language Models (LLMs)
 - Agentic AI
+- Retrieval-Augmented Generation (RAG)
+- LangChain
+- CrewAI
 - MLOps
 - FastAPI
 - AWS
+- Docker
+- Kubernetes
 - System Design
 
-🎯 Career Goal
+🤝 **Leadership**
 
-Become an AI Engineer building intelligent products used by millions.
+- AI Branch Coordinator – Anokha Techfest
+- Led and coordinated a team of 40+ volunteers.
+
+🎬 **Beyond Coding**
+
+I enjoy filmmaking, UI/UX design, storytelling and building products that combine creativity with technology.
+
+🎯 **Career Goal**
+
+Become an AI Engineer building intelligent products that solve real-world problems at scale.
 
 ---
 
-# 💻 Tech Stack
+# 🛠 Tech Stack
 
 <p align="center">
 
@@ -113,28 +136,40 @@ Become an AI Engineer building intelligent products used by millions.
 
 # 🚀 Featured Projects
 
-| Project | Description |
-|----------|-------------|
-| 🏥 MED-AGENT | AI-powered Medical Assistant |
-| 🧠 Biomedical Image Analytics | Disease Detection using Deep Learning |
-| 🛡 Insurance Fraud Detection | ML-based Fraud Prediction |
-| 🌾 Crop Yield Prediction | Random Forest & XGBoost |
-| ✍ Grammar Error Detection | CFG & PDA Based NLP System |
+| 🚀 Project | 📄 Description |
+|------------|----------------|
+| 🏥 MED-AGENT | AI-powered medical assistant for intelligent diagnosis support |
+| 🧠 Biomedical Image Analytics | Disease detection using Deep Learning and Computer Vision |
+| 🛡 Insurance Fraud Detection | Machine Learning system for insurance fraud prediction |
+| 🌾 Smart IoT Crop Yield Prediction | Random Forest & XGBoost based prediction system |
+| ✍ Grammar Error Detection | NLP system using CFG & PDA |
 
 ---
 
-# 📚 Currently Exploring
+# 📚 Research Interests
 
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Natural Language Processing
 - Generative AI
-- Retrieval Augmented Generation (RAG)
+- Agentic AI
+- Medical AI
+- MLOps
+
+---
+
+# 💼 Currently Exploring
+
 - LangChain
 - CrewAI
-- Agentic AI
-- MLOps
 - FastAPI
 - AWS
 - Docker
 - Kubernetes
+- RAG Pipelines
+- LLM Fine-Tuning
 
 ---
 
@@ -142,11 +177,11 @@ Become an AI Engineer building intelligent products used by millions.
 
 📧 **Email**
 
-chowdarynavaddip@gmail.com
+**chowdarynavaddip@gmail.com**
 
 💼 **LinkedIn**
 
-https://www.linkedin.com/in/navaddip-chowdary-7b1157289/
+**https://www.linkedin.com/in/navaddip-chowdary-7b1157289/**
 
 🌐 **Portfolio**
 
@@ -156,14 +191,6 @@ Coming Soon 🚀
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=navaddip&label=Profile+Views&color=0e75b6&style=flat"/>
-
-</p>
-
----
-
-<p align="center">
-
-> 💬 *"Building AI that makes a difference."*
+### 💬 *"Building AI that makes a difference."*
 
 </p>
