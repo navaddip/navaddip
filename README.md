@@ -84,11 +84,11 @@ Git • GitHub • VS Code • Linux
 
 📧 Email:
 
-YOUR EMAIL
+chowdarynavaddip@gmail.com
 
 💼 LinkedIn:
 
-YOUR LINKEDIN
+https://www.linkedin.com/in/navaddip-chowdary-7b1157289/
 
 🌐 Portfolio
 
