@@ -7,16 +7,13 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Navaddip Chowdary</h1>
-<p align="center">
-📍 India • 🎓 Amrita Vishwa Vidyapeetham • 🤖 AI Engineer
-</p>
 
 <h3 align="center">
-AI Engineer • Machine Learning Engineer • Computer Vision • Generative AI • Open Source Enthusiast
+AI Engineer • Machine Learning Engineer • Generative AI Developer • Computer Vision Enthusiast
 </h3>
 
 <p align="center">
-Building AI solutions that bridge research and real-world applications.
+Building intelligent systems that solve real-world problems 🚀
 </p>
 
 <p align="center">
@@ -39,6 +36,12 @@ Building AI solutions that bridge research and real-world applications.
 
 ---
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Artificial+Intelligence;Machine+Learning;Deep+Learning;Computer+Vision;Generative+AI;Backend+Development;Open+Source+Learner"/>
+</p>
+
+---
+
 # 👨‍💻 About Me
 
 🎓 B.Tech Computer Science & Engineering (Artificial Intelligence)  
@@ -47,17 +50,6 @@ Building AI solutions that bridge research and real-world applications.
 🤖 Passionate about Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision and Backend Development.
 
 ## 🚀 Current Focus
-<p align="center">
-
-<img src="https://img.shields.io/badge/Open%20to-Collaboration-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Focus-AI%20Engineering-blueviolet?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Learning-Agentic%20AI-orange?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Available%20for-Internships-brightgreen?style=for-the-badge"/>
-
-</p>
 
 ### 🔨 Currently Building
 
@@ -77,21 +69,17 @@ Building AI solutions that bridge research and real-world applications.
 
 🌱 **Currently Learning**
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/CrewAI-FF6F00?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge"/>
-
-</p>
+- Large Language Models (LLMs)
+- Agentic AI
+- Retrieval-Augmented Generation (RAG)
+- LangChain
+- CrewAI
+- MLOps
+- FastAPI
+- AWS
+- Docker
+- Kubernetes
+- System Design
 
 🤝 **Leadership**
 
@@ -281,4 +269,5 @@ Coming Soon 🚀
 
 ### 💬 *"Building AI that makes a difference."*
 
-</p>
+</p> 
+
