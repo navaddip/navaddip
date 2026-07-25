@@ -7,13 +7,16 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Navaddip Chowdary</h1>
+<p align="center">
+📍 India • 🎓 Amrita Vishwa Vidyapeetham • 🤖 AI Engineer
+</p>
 
 <h3 align="center">
-AI Engineer • Machine Learning Engineer • Generative AI Developer • Computer Vision Enthusiast
+AI Engineer • Machine Learning Engineer • Computer Vision • Generative AI • Open Source Enthusiast
 </h3>
 
 <p align="center">
-Building intelligent systems that solve real-world problems 🚀
+Building AI solutions that bridge research and real-world applications.
 </p>
 
 <p align="center">
@@ -32,12 +35,6 @@ Building intelligent systems that solve real-world problems 🚀
 
 <img src="https://komarev.com/ghpvc/?username=navaddip&style=for-the-badge&color=blue"/>
 
-</p>
-
----
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Artificial+Intelligence;Machine+Learning;Deep+Learning;Computer+Vision;Generative+AI;Backend+Development;Open+Source+Learner"/>
 </p>
 
 ---
