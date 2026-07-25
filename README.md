@@ -49,13 +49,23 @@ Building intelligent systems that solve real-world problems 🚀
 
 🤖 Passionate about Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision and Backend Development.
 
-🚀 **Currently Building**
+## 🚀 Current Focus
 
-- 🏥 MED-AGENT – AI Powered Medical Assistant
-- 🛡 Insurance Fraud Detection using Machine Learning
-- 🌾 Smart IoT Crop Yield Prediction
-- 🧠 Biomedical Image Analytics
-- ✍ Grammar Error Detection using CFG & PDA
+### 🔨 Currently Building
+
+- 🏥 **MED-AGENT** – AI-powered Medical Assistant for intelligent diagnosis support using Large Language Models, Computer Vision, and Agentic AI.
+
+---
+
+### ✅ Featured Projects
+
+- 🛡 **Insurance Fraud Detection** – Machine Learning system for detecting fraudulent insurance applications.
+
+- 🌾 **Smart IoT Crop Yield Prediction** – Crop prediction using Random Forest and XGBoost integrated with IoT sensor data.
+
+- 🧠 **Biomedical Image Analytics** – Deep Learning-based disease detection and medical image analysis using CNNs.
+
+- ✍ **Grammar Error Detection** – Context-Free Grammar (CFG) and Pushdown Automata (PDA) based grammar correction system.
 
 🌱 **Currently Learning**
 
