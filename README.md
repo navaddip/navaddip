@@ -176,15 +176,15 @@ Become an AI Engineer building intelligent products that solve real-world proble
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=navaddip&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=navaddip&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navaddip&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navaddip&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=navaddip&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=navaddip&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -194,7 +194,7 @@ Become an AI Engineer building intelligent products that solve real-world proble
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=navaddip&theme=tokyonight&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=navaddip&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </p>
 
@@ -204,7 +204,7 @@ Become an AI Engineer building intelligent products that solve real-world proble
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=navaddip&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=navaddip&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
